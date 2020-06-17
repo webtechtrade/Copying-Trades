@@ -1,4 +1,4 @@
-# tradecopycat
+# Cryptocurrency copying trades Telegram bot
 
 бид - заявки покупателей (исполняются продавцами)
 аск - заявки продавцов (исполняются покупателями)
