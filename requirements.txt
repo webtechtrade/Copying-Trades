@@ -1,0 +1,9 @@
+wheel
+requests
+sqlalchemy
+python-telegram-bot
+bitmex
+websocket
+bitmex-ws
+asyncio
+dependency_injector

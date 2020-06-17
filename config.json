@@ -1,0 +1,30 @@
+{
+  "DEFAULT": {
+    "DATABASE": {
+      "drivername": "sqlite",
+      "database": "trading_bot.sqlite"
+    }
+  },
+  "URL_API": "https://www.bitmex.com/",
+  "IS_TEST": false,
+  "REFERENCE": {
+    "API_KEY": "8yeAblET5XqnbqtFVePz7RbU",
+    "API_SECRET": "IW5y1XhSrA-cHEJ9xM9NdSTZoC-vUR23jpY9dy1S9ggT1Oqa"
+  },
+  "TELEGRAM": {
+    "BOT_TOKEN": "359768385:AAEhITaS5zaGSFhI4dAuNMpBgwAS6-7j4S8",
+    "CHAT_ID": "-1001428076043"
+  },
+  "CLIENTS": [
+    {
+      "NAME": "CG_TEST",
+      "MULTIPLIER_QUANTITY" : 0.0286,
+      "API_KEY": "OtUhAC1Rm54M_pGOk7ITIAXD",
+      "API_SECRET": "izawtCeV6lOMGOPyPYqBDUHFHUux0uWPTtx6k0olFSE6MUWA"
+    }
+
+  ],
+  "TIME_TO_CANCEL": 5,
+  "PERCENT_PRICE": 0.3,
+  "TIME_TO_UP": 10
+}
